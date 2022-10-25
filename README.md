@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzzi</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend developer from South Africa learning Software development and a bit of pentesting!</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
+
 - 💬 Ask me about **Whatever you want, I'll try my best to answer :-)**
 
 - 📫 How to reach me **uzairakhals@gmail.com**
@@ -8,6 +9,13 @@
 - 📄 Know about my experiences [by visiting my LinkedIn](by visiting my LinkedIn)
 
 - ⚡ Fun fact **I enjoy gaming and football alongside all this computer stuff**
+<br/>
+<br/>
+
+
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
